@@ -1,0 +1,6 @@
+/dataset
+/tensorbox
+/gtsdb_15k
+__pycache__/
+*.pyc
+.rope*
